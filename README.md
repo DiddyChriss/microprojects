@@ -1,5 +1,5 @@
 # tic tac toe
-CHECK OUT ! My new microproject of popular simple game with USING KEYBOARD MODULE !!!
+CHECK OUT ! My new micro project of popular simple game with USING KEYBOARD MODULE !!!
 
 #keyboard module
 Simple uniwersal module to keyboard control
